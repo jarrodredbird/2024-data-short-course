@@ -106,8 +106,9 @@ We appreciate these partnerships and look forward to working with you all!
 | [Roberto Garcia](https://namedrop.io/robertogarcia) (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
 | Yasir Abbas (Student) |  | chyasirabbas  | [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/](https://chyasirabbasjutt.github.io/YasirAbbas.github.io/)| 
 | Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
+| Jarrod Red Bird (Student) | Rosebud Sioux Tribe | jarrodredbird | (https://github.com/jarrodredbird/jarrodredbird.github.io)  
 
-# **Code of Conduct** 
+**Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
   
 <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
